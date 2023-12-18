@@ -1,0 +1,8 @@
+RESERVATION LIST INFORMATION
+--------------------------
+Email: da@gmail.com
+Email Address: da
+Check-in Date: Mon Dec 18 13:43:29 SGT 2023
+Check-out Date: Tue Dec 19 13:43:30 SGT 2023
+Room Type Preference: Single
+--------------------------
